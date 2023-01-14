@@ -1,4 +1,4 @@
-# programming_fundamental_finalwork
+# programming_fundamental_finalwork 徐子诚
 这是编程基础期末作业仓库
 在本次作业中使用dry bean数据集，筛选特征，并进行了多变量Logistic拟合和随机森林模型拟合
 在代码后端，编写了一个dry_bean类
